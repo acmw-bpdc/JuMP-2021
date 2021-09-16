@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
 //        The onClick() method within that class has a different scope than the for loop,
 //        therefore it has no access to local variable i.
 //        Solution: Declare a new Final variable j.
+//        For more info on anonymous classes: https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html
 
         for(int i = 0; i < tiles.length; i++){
             final int j = i;
