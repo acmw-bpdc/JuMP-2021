@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutsIntro</string>
+    <string name="name">Enter Name</string>
+    <string name="password">Enter Password</string>
+</resources>
