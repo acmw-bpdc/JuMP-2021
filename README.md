@@ -5,7 +5,9 @@ Mentors:
 1. Avani Verma: [@Avani01](https://github.com/Avani01)
 
 Mentees: 
-**TBD**
+1. Sarah Arshad: [@saraharshad](https://github.com/saraharshad)
+2. Sstuti Mehra: [@sstuti](https://github.com/sstuti)
+3. Faaizah Rajeev
 
 Check out the branches for projects by our mentors and mentees: 
 1. dice-game by [@GokulSudheesh](https://github.com/GokulSudheesh)
