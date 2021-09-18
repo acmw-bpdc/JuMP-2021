@@ -12,3 +12,4 @@ Mentees:
 Check out the branches for projects by our mentors and mentees: 
 1. dice-game by [@GokulSudheesh](https://github.com/GokulSudheesh)
 2. simon-says by [@GokulSudheesh](https://github.com/GokulSudheesh)
+3. lin-rel-layouts by [@GokulSudheesh](https://github.com/GokulSudheesh)
