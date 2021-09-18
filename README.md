@@ -2,6 +2,11 @@
 
 <img src="./GitHubImages/ss.jpeg" width="340vw">
 
+### Setting up
+```
+git clone --branch chat-bot --single-branch https://github.com/bpdc-acmw/JuMP-2021-App-Dev.git
+```
+
 ### Prerequisites
 * Recycler Views
   * <a href="https://youtu.be/__OMnFR-wZU">Tutorial Part 1</a>
