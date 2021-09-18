@@ -9,7 +9,7 @@ Mentors:
 Mentees: 
 1. Sarah Arshad: [@saraharshad](https://github.com/saraharshad)
 2. Sstuti Mehra: [@sstuti](https://github.com/sstuti)
-3. Faaizah Rajeev
+3. Faaizah Rajeev: [@faaizahrajeev](https://github.com/faaizahrajeev)
 
 Check out the branches for projects by our mentors and mentees: 
 1. [lin-rel-layouts](https://github.com/bpdc-acmw/JuMP-2021-App-Dev/tree/lin-rel-layouts) by [@GokulSudheesh](https://github.com/GokulSudheesh)
