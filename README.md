@@ -10,6 +10,7 @@ Mentees:
 3. Faaizah Rajeev
 
 Check out the branches for projects by our mentors and mentees: 
-1. dice-game by [@GokulSudheesh](https://github.com/GokulSudheesh)
-2. simon-says by [@GokulSudheesh](https://github.com/GokulSudheesh)
-3. lin-rel-layouts by [@GokulSudheesh](https://github.com/GokulSudheesh)
+1. lin-rel-layouts by [@GokulSudheesh](https://github.com/GokulSudheesh)
+2. dice-game by [@GokulSudheesh](https://github.com/GokulSudheesh)
+3. simon-says by [@GokulSudheesh](https://github.com/GokulSudheesh)
+4. chat-bot by [@GokulSudheesh](https://github.com/GokulSudheesh)
