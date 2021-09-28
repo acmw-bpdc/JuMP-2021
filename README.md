@@ -4,7 +4,7 @@ September 2021 - January 2022
 
 Mentors: 
 1. Gokul Sudheesh: [@GokulSudheesh](https://github.com/GokulSudheesh)
-1. Avani Verma: [@Avani01](https://github.com/Avani01)
+2. Avani Verma: [@Avani01](https://github.com/Avani01)
 
 Mentees: 
 1. Sarah Arshad: [@saraharshad](https://github.com/saraharshad)
@@ -18,4 +18,10 @@ Check out the branches for projects by our mentors and mentees:
 4. [chat-bot](https://github.com/bpdc-acmw/JuMP-2021-App-Dev/tree/chat-bot) by [@GokulSudheesh](https://github.com/GokulSudheesh)
 
 
-New Line. Hello World!
+## Resources
+### Week 1
+* [Setting up Android Studio [WINDOWS]](https://youtu.be/0zx_eFyHRU0)
+* [Setting up Android Studio [MAC]](https://youtu.be/ri90tcQL-Aw)
+* [What is XML?](https://www.w3schools.com/xml/xml_whatis.asp)
+* [Introduction to XML and Android Layouts](https://www.learnhowtoprogram.com/android/introduction-to-android/introduction-to-xml-and-android-layouts#:~:text=eXtensible%20Markup%20Language%2C%20or%20XML,be%20closed%2C%20and%20preserves%20whitespace.)
+* [Callback using Interfaces in Java](https://www.tutorialspoint.com/Callback-using-Interfaces-in-Java)
