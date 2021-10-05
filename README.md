@@ -25,3 +25,12 @@ Check out the branches for projects by our mentors and mentees:
 * [What is XML?](https://www.w3schools.com/xml/xml_whatis.asp)
 * [Introduction to XML and Android Layouts](https://www.learnhowtoprogram.com/android/introduction-to-android/introduction-to-xml-and-android-layouts#:~:text=eXtensible%20Markup%20Language%2C%20or%20XML,be%20closed%2C%20and%20preserves%20whitespace.)
 * [Callback using Interfaces in Java](https://www.tutorialspoint.com/Callback-using-Interfaces-in-Java)
+
+### Week 1
+* [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer)
+* [Activities, Services, Broadcast Recievers and Content Providers](https://developer.android.com/guide/components/fundamentals)
+* [Intent](https://www.javatpoint.com/android-intent-tutorial)
+* [Activities & Intents (YT Video)](https://youtu.be/3dsAuLkDTUc)
+* [URL and URI](https://www.geeksforgeeks.org/difference-between-url-and-uri/)
+* [Class Object](https://docs.oracle.com/javase/8/docs/api/java/lang/Class.html)
+* [Runnables, Threads and Handlers in Android](https://youtu.be/lsmJezQIOtI)
