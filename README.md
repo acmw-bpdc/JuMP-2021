@@ -26,7 +26,7 @@ Check out the branches for projects by our mentors and mentees:
 * [Introduction to XML and Android Layouts](https://www.learnhowtoprogram.com/android/introduction-to-android/introduction-to-xml-and-android-layouts#:~:text=eXtensible%20Markup%20Language%2C%20or%20XML,be%20closed%2C%20and%20preserves%20whitespace.)
 * [Callback using Interfaces in Java](https://www.tutorialspoint.com/Callback-using-Interfaces-in-Java)
 
-### Week 1
+### Week 2
 * [MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer)
 * [Activities, Services, Broadcast Recievers and Content Providers](https://developer.android.com/guide/components/fundamentals)
 * [Intent](https://www.javatpoint.com/android-intent-tutorial)
