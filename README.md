@@ -4,7 +4,7 @@
 
 ### Setting up
 ```
-git clone --branch chat-bot --single-branch https://github.com/bpdc-acmw/JuMP-2021-App-Dev.git
+git clone --branch chat-bot --single-branch https://github.com/acmw-bpdc/JuMP-2021.git
 ```
 
 ### Prerequisites
