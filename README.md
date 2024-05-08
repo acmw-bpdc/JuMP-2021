@@ -2,7 +2,7 @@
 
 ### Setting up
 ```
-git clone --branch lin-rel-layouts --single-branch https://github.com/bpdc-acmw/JuMP-2021-App-Dev.git
+git clone --branch lin-rel-layouts --single-branch https://github.com/acmw-bpdc/JuMP-2021.git
 ```
 
 ### Linear Layouts
