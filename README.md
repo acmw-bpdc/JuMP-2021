@@ -12,10 +12,10 @@ Mentees:
 3. Faaizah Rajeev: [@faaizahrajeev](https://github.com/faaizahrajeev)
 
 Check out the branches for projects by our mentors and mentees: 
-1. [lin-rel-layouts](https://github.com/bpdc-acmw/JuMP-2021-App-Dev/tree/lin-rel-layouts) by [@GokulSudheesh](https://github.com/GokulSudheesh)
-2. [dice-game](https://github.com/bpdc-acmw/JuMP-2021-App-Dev/tree/dice-game) by [@GokulSudheesh](https://github.com/GokulSudheesh)
-3. [simon-says](https://github.com/bpdc-acmw/JuMP-2021-App-Dev/tree/simon-says) by [@GokulSudheesh](https://github.com/GokulSudheesh) 
-4. [chat-bot](https://github.com/bpdc-acmw/JuMP-2021-App-Dev/tree/chat-bot) by [@GokulSudheesh](https://github.com/GokulSudheesh)
+1. [lin-rel-layouts](https://github.com/acmw-bpdc/JuMP-2021/tree/lin-rel-layouts) by [@GokulSudheesh](https://github.com/GokulSudheesh)
+2. [dice-game](https://github.com/acmw-bpdc/JuMP-2021/tree/dice-game) by [@GokulSudheesh](https://github.com/GokulSudheesh)
+3. [simon-says](https://github.com/acmw-bpdc/JuMP-2021/tree/simon-says) by [@GokulSudheesh](https://github.com/GokulSudheesh) 
+4. [chat-bot](https://github.com/acmw-bpdc/JuMP-2021/tree/chat-bot) by [@GokulSudheesh](https://github.com/GokulSudheesh)
 
 
 ## Resources
